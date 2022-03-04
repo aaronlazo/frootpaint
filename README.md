@@ -7,6 +7,6 @@ v1.1 patch notes :
 
 I ended up rewriting everything in vanilla js because things were getting a little messing with react!
 
-#added a fully functional eraser tool (fixed from the initial commit)
-#added support for mobile devices
-#some small design improvements
+- added a fully functional eraser tool (fixed from the initial commit)
+- added support for mobile devices
+- some small design improvements
